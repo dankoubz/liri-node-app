@@ -1,0 +1,353 @@
+Invalid. Does not compute. Self-destructing in 3..2..1..
+Uh oh! Self-destructing in 3..2..1..
+Uh oh! Self-destructing in 3..2..1..
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mArtist: J. Cole[39m
+[32mAlbum: KOD[39m
+[32mPreview: null[39m
+[32mSong: KOD[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mAlbum: The Best In The World Pack[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mPreview: https://p.scdn.co/mp3-preview/eceb1b928c7339ba16bfde8c4f9731af72ee1637?cid=98e7b7e773614fbcb7aaddf02d89e766[39m
+[32mArtist: Drake[39m
+[32mSong: Money In The Grave (Drake ft. Rick Ross)[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mSong: Money[39m
+[32mArtist: ZHU[39m
+Error recorded: TypeError: Cannot read property 'preview_url' of undefined
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+Error recorded: TypeError: Cannot read property 'artists' of undefined
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mSong: Ghost In My Bed[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mAlbum: RINGOS DESERT[39m
+[32mArtist: ZHU[39m
+[32mPreview: https://p.scdn.co/mp3-preview/83a4d4122cb0a12911166ad25b7cb53970ad6610?cid=98e7b7e773614fbcb7aaddf02d89e766[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mArtist: ZHU[39m
+[32mSong: Ghost In My Bed[39m
+[32mPreview: https://p.scdn.co/mp3-preview/83a4d4122cb0a12911166ad25b7cb53970ad6610?cid=98e7b7e773614fbcb7aaddf02d89e766[39m
+[32mAlbum: RINGOS DESERT[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[37m[39m
+[37m---------------------------------------------------[39m
+[37m[39m
+[32mArtist: ZHU[39m
+[32mSong: Ghost In My Bed[39m
+[37m[39m
+[37m---------------------------------------------------[39m
+[37m[39m
+[32mAlbum: RINGOS DESERT[39m
+[32mPreview: https://p.scdn.co/mp3-preview/83a4d4122cb0a12911166ad25b7cb53970ad6610?cid=98e7b7e773614fbcb7aaddf02d89e766[39m
+[37m[39m
+[37m---------------------------------------------------[39m
+[37m[39m
+[32mAlbum: ASTROWORLD[39m
+[37m[39m
+[37m---------------------------------------------------[39m
+[37m[39m
+[32mPreview: https://p.scdn.co/mp3-preview/26cde6756e631b05cb8b83e99bec8eac00980073?cid=98e7b7e773614fbcb7aaddf02d89e766[39m
+[32mArtist: Travis Scott[39m
+[32mSong: CAN'T SAY[39m
+[37m[39m
+[37m---------------------------------------------------[39m
+[37m[39m
+[32mArtist: Adele[39m
+[32mSong: Hello[39m
+[32mPreview: https://p.scdn.co/mp3-preview/910ebbbe98672c77cfb41873799ddb95db363ab6?cid=98e7b7e773614fbcb7aaddf02d89e766[39m
+[32mAlbum: 25[39m
+[37m[39m
+[37m---------------------------------------------------[39m
+[37m[39m
+[37m[39m
+[37m----------------------------------------------------------------[39m
+[37m[39m
+[32mArtist: Adele[39m
+[37m[39m
+[37m---------------------------------------------------------------[39m
+[37m[39m
+[32mPreview: https://p.scdn.co/mp3-preview/910ebbbe98672c77cfb41873799ddb95db363ab6?cid=98e7b7e773614fbcb7aaddf02d89e766[39m
+[32mAlbum: 25[39m
+[32mSong: Hello[39m
+[37m[39m
+[37m------------------------------------------------------------------[39m
+[37m[39m
+[32mSong: Steam[39m
+[37m[39m
+[37m-----------------------------------------------------------------[39m
+[37m[39m
+[32mArtist: Superlover[39m
+[32mAlbum: Steam[39m
+[32mPreview: null[39m
+[37m[39m
+[37m------------------------------------------------------------------[39m
+[37m[39m
+[32mArtist: Whethan[39m
+[32mAlbum: Life of a Wallflower Vol. 1[39m
+[32mPreview: https://p.scdn.co/mp3-preview/9c4d30376c18413029f5725bf31872e67f075dcb?cid=98e7b7e773614fbcb7aaddf02d89e766[39m
+[37m[39m
+[37m-----------------------------------------------------------------[39m
+[37m[39m
+[32mSong: Superlove (feat. Oh Wonder)[39m
+[37m[39m
+[37m------------------------------------------------------------------[39m
+[37m[39m
+[32mArtist: Whethan[39m
+[32mAlbum: Life of a Wallflower Vol. 1[39m
+[32mSong: Superlove (feat. Oh Wonder)[39m
+[37m[39m
+[37m-----------------------------------------------------------------[39m
+[37m[39m
+[32mPreview: https://p.scdn.co/mp3-preview/9c4d30376c18413029f5725bf31872e67f075dcb?cid=98e7b7e773614fbcb7aaddf02d89e766[39m
+[37m[39m
+[37m------------------------------------------------------------------[39m
+[37m[39m
+[32mPreview: null[39m
+[37m[39m
+[37m-----------------------------------------------------------------[39m
+[37m[39m
+[32mAlbum: I Don't Care (with Justin Bieber)[39m
+[32mArtist: Ed Sheeran[39m
+[32mSong: I Don't Care (with Justin Bieber)[39m
+[37m[39m
+[37m------------------------------------------------------------------[39m
+[37m[39m
+[32mPreview: https://p.scdn.co/mp3-preview/c66be4965c7ee07ad67d1523d33cf2b4bbaef626?cid=98e7b7e773614fbcb7aaddf02d89e766[39m
+[37m[39m
+[37m-----------------------------------------------------------------[39m
+[37m[39m
+[32mAlbum: Don't Let Me Down[39m
+[32mArtist: The Chainsmokers[39m
+[32mSong: Don't Let Me Down[39m
+[37m[39m
+[37m------------------------------------------------------------------[39m
+[37m[39m
+[32mArtist: Sabrina Claudio[39m
+[32mSong: Don't Let Me Down (feat. Khalid)[39m
+Error recorded: TypeError: Cannot read property 'preview_url' of undefined
+[37m[39m
+[37m+----------------------------------------------------------------+[39m
+[37m[39m
+[32mSong: Don't Let Me Down (feat. Khalid)[39m
+Error recorded: TypeError: Cannot read property 'preview_url' of undefined
+[32mArtist: Sabrina Claudio[39m
+[37m[39m
+[37m+----------------------------------------------------------------+[39m
+[37m[39m
+Error recorded: TypeError: Cannot read property 'preview_url' of undefined
+[32mSong: Money[39m
+[32mArtist: ZHU[39m
+[37m[39m
+[37m+----------------------------------------------------------------+[39m
+[37m[39m
+[32mPreview: https://p.scdn.co/mp3-preview/83a4d4122cb0a12911166ad25b7cb53970ad6610?cid=98e7b7e773614fbcb7aaddf02d89e766[39m
+[37m[39m
+[37m+---------------------------------------------------------------+[39m
+[37m[39m
+[32mArtist: ZHU[39m
+[32mAlbum: RINGOS DESERT[39m
+[32mSong: Ghost In My Bed[39m
+[37m[39m
+[37m+----------------------------------------------------------------+[39m
+[37m[39m
+[32mSong: One Minute to Midnight[39m
+[32mAlbum: GENERATIONWHY[39m
+[37m[39m
+[37m+---------------------------------------------------------------+[39m
+[37m[39m
+[32mPreview: https://p.scdn.co/mp3-preview/3029d62c236cbbc8e094326daa1823618736ed3e?cid=98e7b7e773614fbcb7aaddf02d89e766[39m
+[32mArtist: ZHU[39m
+[37m[39m
+[37m+----------------------------------------------------------------+[39m
+[37m[39m
+[32mArtist: Backstreet Boys[39m
+[37m[39m
+[37m+---------------------------------------------------------------+[39m
+[37m[39m
+[32mPreview: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=98e7b7e773614fbcb7aaddf02d89e766[39m
+[32mAlbum: The Hits--Chapter One[39m
+[32mSong: I Want It That Way[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mTitle: undefined[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mTitle: undefined[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mTitle: undefined[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mTitle: undefined[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mTitle: The Count of Monte Cristo[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mRotten Tomatoes Rating: 74%[39m
+[32mCountry: UK, USA, Ireland, Switzerland[39m
+[32mLanguage: English[39m
+[32mPlot: A young man, falsely imprisoned by his jealous "friend", escapes and uses a hidden treasure to exact his revenge.[39m
+[32mActors: Jim Caviezel, Guy Pearce, Richard Harris, James Frain[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mTitle: The Count of Monte Cristo[39m
+[32mRelease Year: 2002[39m
+[32mIMDB Rating: 7.7[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[32mTitle: The Count of Monte Cristo[39m
+[32mRelease Year: 2002[39m
+[32mIMDB Rating: 7.7[39m
+[32mRotten Tomatoes Rating: 74%[39m
+[32mCountry: UK, USA, Ireland, Switzerland[39m
+[32mLanguage: English[39m
+[32mPlot: A young man, falsely imprisoned by his jealous "friend", escapes and uses a hidden treasure to exact his revenge.[39m
+[32mActors: Jim Caviezel, Guy Pearce, Richard Harris, James Frain[39m
+[34m[39m
+[34m---------------------------------------------------[39m
+[34m[39m
+[37m[39m
+[37m+----------------------------------------------------------------+[39m
+[37m[39m
+[34mRotten Tomatoes Rating: 74%[39m
+[34mCountry: UK, USA, Ireland, Switzerland[39m
+[34mLanguage: English[39m
+[34mPlot: A young man, falsely imprisoned by his jealous "friend", escapes and uses a hidden treasure to exact his revenge.[39m
+[34mActors: Jim Caviezel, Guy Pearce, Richard Harris, James Frain[39m
+[37m[39m
+[37m+----------------------------------------------------------------+[39m
+[37m[39m
+[34mIMDB Rating: 7.7[39m
+[34mRelease Year: 2002[39m
+[34mTitle: The Count of Monte Cristo[39m
+[37m[39m
+[37m+----------------------------------------------------------------+[39m
+[37m[39m
+[34mTitle: Mr. Nobody[39m
+[34mRotten Tomatoes Rating: 67%[39m
+[34mLanguage: English, Mohawk[39m
+[34mPlot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.[39m
+[34mActors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham[39m
+[37m[39m
+[37m+----------------------------------------------------------------+[39m
+[37m[39m
+[34mIMDB Rating: 7.8[39m
+[34mRelease Year: 2009[39m
+[34mCountry: Belgium, Germany, Canada, France, USA, UK[39m
+[37m[39m
+[37m+----------------------------------------------------------------+[39m
+[37m[39m
+[34mIMDB Rating: undefined[39m
+[34mRelease Year: undefined[39m
+[34mTitle: undefined[39m
+[37m[39m
+[37m+----------------------------------------------------------------+[39m
+[37m[39m
+[32mName: Listen Out Sydney[39m
+[37m[39m
+[37m+----------------------------------------------------------------+[39m
+[37m[39m
+[32mDate: undefined[39m
+[32mCity: Broadway, Sydney[39m
+[32mName: Listen Out Sydney[39m
+[37m[39m
+[37m+----------------------------------------------------------------+[39m
+[37m[39m
+[37m[39m
+[37m+----------------------------------------------------------------+[39m
+[37m[39m
+[32mCity: Broadway, Sydney[39m
+[32mDate: 2019-10-05T19:00:59[39m
+[32mName: Listen Out Sydney[39m
+[37m[39m
+[37m+----------------------------------------------------------------+[39m
+[37m[39m
+[37m[39m
+[37m+----------------------------------------------------------------+[39m
+[37m[39m
+[31mDate: 2019-10-05T19:00:59[39m
+[31mCity: Broadway, Sydney[39m
+[37m[39m
+[37m+----------------------------------------------------------------+[39m
+[37m[39m
+[31mName: Listen Out Sydney[39m
+[31mBandsintown[39m
+[37m[39m
+[37m+----------------------------------------------------------------+[39m
+[37m[39m
+[37m[39m
+[37m+----------------------------------------------------------------+[39m
+[37m[39m
+[31mCity: Broadway, Sydney[39m
+[31mDate: 2019-10-05T19:00:59[39m
+[31mName: Listen Out Sydney[39m
+[37m[39m
+[37m+----------------------------------------------------------------+[39m
+[37m[39m
+[31mName: Listen Out Sydney[39m
+[31mCity: Broadway, Sydney[39m
+[31mDate: 2019-10-05T19:00:59[39m
+[37m[39m
+[37m+----------------------------------------------------------------+[39m
+[37m[39m
